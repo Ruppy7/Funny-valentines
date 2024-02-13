@@ -39,7 +39,7 @@ const Whyyes = () => {
         </a>
       </div>
       <div className="valentine-message text-8xl text-pink-600">
-        <p>Why YES, ABSOLUTELY :3</p>
+        <p>Why YES, ABSOLUTELY :3</p> <br/>
       </div>
     </div>
   );
